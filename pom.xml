@@ -102,8 +102,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>http://13.60.16.201:8000/repository/ebay-backtoschool-snapshot/ </name>
-	      <url>http://172.31.18.29:8081/repository/ebay-bts-snapshot/</url>
+	      <name> Landmark Technologies Snapshot Nexus Repository </name>
+	      <url>http://13.60.16.201:8000/repository/ebay-backtoschool-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
