@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://16.16.57.101:8000/repository/ebay-backtoschool-releases/</url>
+	      <url> http://51.20.80.192:8000/repository/fintech-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://16.16.57.101:8000/repository/ebay-backtoschool-snapshot/</url>
+	      <url>http://51.20.80.192:8000/repository/fintech-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
