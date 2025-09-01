@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>E&E Cloudtech Releases Nexus Repository</name>
+	      <name>EandE Cloudtech Releases Nexus Repository</name>
 	      <url>http://13.61.153.221:8000/repository/fintech-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name> E&E Cloudtech Snapshot Nexus Repository </name>
+	      <name> EandE Cloudtech Snapshot Nexus Repository </name>
 	      <url>http://13.61.153.221:8000/repository/fintech-snapshot/</url>
 	    </snapshotRepository>
 	    
