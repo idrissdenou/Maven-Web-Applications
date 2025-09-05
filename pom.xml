@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:13.49.70.120:9000/</sonar.host.url>
+		<sonar.host.url>http:16.170.172.171:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>EandE Cloudtech Releases Nexus Repository</name>
-	      <url>http://13.61.153.221:8000/repository/fintech-releases/</url>
+	      <url>http://51.20.78.216:8000/repository/fintech-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name> EandE Cloudtech Snapshot Nexus Repository </name>
-	      <url>http://13.61.153.221:8000/repository/fintech-snapshot/</url>
+	      <url>http://51.20.78.216:8000/repository/fintech-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
